@@ -1,5 +1,7 @@
 import java.util.HashMap;
 
+//Array
+//HashTable
 public class TwoSum {
         public int[] twoSum(int[] nums, int target) {
             int[] ans = new int[2];
